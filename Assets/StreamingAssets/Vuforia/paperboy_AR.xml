@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="sports_gene" size="0.140000 0.215028" />
+    <ImageTarget name="playing_the_enemy" size="0.140000 0.216949" />
+    <ImageTarget name="page15J" size="0.200000 0.244719" />
+    <ImageTarget name="page14J" size="0.200000 0.240108" />
+    <ImageTarget name="page13J" size="0.200000 0.240541" />
+    <ImageTarget name="page12J" size="0.200000 0.239084" />
+    <ImageTarget name="page11J" size="0.200000 0.239785" />
+    <ImageTarget name="page10J" size="0.200000 0.243537" />
+    <ImageTarget name="page9J" size="0.200000 0.215719" />
+    <ImageTarget name="page8J" size="0.200000 0.250986" />
+    <ImageTarget name="page7J" size="0.200000 0.240811" />
+    <ImageTarget name="page6J" size="0.200000 0.242877" />
+    <ImageTarget name="page5J" size="0.200000 0.217647" />
+    <ImageTarget name="page4J" size="0.200000 0.244077" />
+    <ImageTarget name="page3J" size="0.200000 0.240000" />
+    <ImageTarget name="page2J" size="0.200000 0.240108" />
+    <ImageTarget name="page1J" size="0.200000 0.153206" />
+    <ImageTarget name="coverJ" size="0.230000 0.264662" />
+  </Tracking>
+</QCARConfig>
