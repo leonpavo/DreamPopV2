@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="pink_page16" size="0.220000 0.262840" />
+    <ImageTarget name="pink_page15" size="0.220000 0.257293" />
+    <ImageTarget name="pink_page14" size="0.220000 0.259195" />
+    <ImageTarget name="pink_page13" size="0.220000 0.259139" />
+    <ImageTarget name="pink_page12" size="0.220000 0.257353" />
+    <ImageTarget name="pink_page11" size="0.220000 0.258247" />
+    <ImageTarget name="pink_page10" size="0.220000 0.259083" />
+    <ImageTarget name="pink_page9" size="0.220000 0.258563" />
+    <ImageTarget name="pink_page8" size="0.220000 0.260518" />
+    <ImageTarget name="pink_page7" size="0.220000 0.260201" />
+    <ImageTarget name="pink_page6" size="0.220000 0.259828" />
+    <ImageTarget name="pink_page4" size="0.220000 0.256667" />
+    <ImageTarget name="pink_page5" size="0.220000 0.258657" />
+    <ImageTarget name="pink_page3" size="0.220000 0.259422" />
+    <ImageTarget name="pink_page2" size="0.220000 0.263237" />
+    <ImageTarget name="pink_page1" size="0.220000 0.261468" />
+    <ImageTarget name="pink_cupcake" size="0.220000 0.259365" />
+    <ImageTarget name="pink_coverJ" size="0.220000 0.257245" />
+  </Tracking>
+</QCARConfig>
